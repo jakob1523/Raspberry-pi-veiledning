@@ -66,6 +66,4 @@ GRANT ALL PRIVILEGES ON *.* TO 'username'@’localhost’ IDENTIFIED BY 'passwor
 //Oppdater rettighetene
 FLUSH PRIVILEGES;
 ```
-
-ok
 **Kjør sudo apt update og upgrade igjen**
